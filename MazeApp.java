@@ -1,11 +1,4 @@
-/*
- * CSCI 502 - JAVA Section 2
- * Assignment 3 - Read, draw and solving mazes
- * Name - Srikanth Reddy Nagidi (Z1836478)
- * 		- Himamounisha Boggavarapu (Z1840235)
- * 
- * Class - MazeApp
- */
+
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.*;
